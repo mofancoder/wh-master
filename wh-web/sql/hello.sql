@@ -1,4 +1,4 @@
---hello sql first
+--hello sql first --
 CREATE TABLE hello(
   user_id INT NOT NULL PRIMARY KEY AUTO_INCREMENT,
   user_name VARCHAR(255) NOT NULL ,
